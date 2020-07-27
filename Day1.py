@@ -1,2 +1,2 @@
-print('Hello this is my Day1 for learning Github') 
-print('First changes made from local after fresh clone')    
+name = input('What is your name ?')
+print("Hello! " + name) 
